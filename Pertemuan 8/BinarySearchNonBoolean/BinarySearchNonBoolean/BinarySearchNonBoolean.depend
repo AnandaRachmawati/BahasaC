@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715840379 source:c:\users\hp\documents\unchdip\praktikum alpro sem 2\pertemuan 8\binarysearchnonboolean\binarysearchnonboolean\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
