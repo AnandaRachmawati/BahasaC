@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1717667030 source:c:\users\hp\documents\unchdip\praktikum alpro sem 2\lampuuuu\main.c
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+	<limits.h>
+	<stdbool.h>
+
